@@ -24,7 +24,7 @@ If there are other bidders, the screen should clear, so you can pass your phone 
 The winner is Elon with a bid of $55000000000
 ```
 
-Use your knowledge of Python dictionaries and loops to solve this challenge. 
+<b>The goal is to use your knowledge of Python dictionaries and loops to solve this challenge.
 
 
 # My console doesn't clear!
