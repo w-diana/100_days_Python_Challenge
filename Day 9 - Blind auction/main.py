@@ -1,6 +1,6 @@
 from replit import clear
 from art import logo
-#HINT: You can call clear() to clear the output in the console.
+
 def add_bid(name, bid, bidders):
   bidders[name] = bid
 
