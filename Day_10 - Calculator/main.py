@@ -1,5 +1,4 @@
 from art import logo 
-from replit import clear
 
 # Add
 def add(n1, n2):
