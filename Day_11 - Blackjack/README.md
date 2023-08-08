@@ -8,6 +8,8 @@
 - The cards in the list have equal probability of being drawn.
 - Cards are not removed from the deck as they are drawn.
 - The computer is the dealer.
+- To win - your score must be less than 21 and must be greater than the dealer's score.
+- The dealers score cannot be less than 17
   
 Try out my Blackjack game!
 <p align="center">
