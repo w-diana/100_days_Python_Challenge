@@ -1,5 +1,6 @@
 # Coffee Machine in Object Oriented Programming Language (OOP)
 ### Overview: ###
+_________________
 Programmed a coffee machine in Object Oriented Programming Language (OOP). 
 
 <p align="center">
@@ -7,6 +8,7 @@ Programmed a coffee machine in Object Oriented Programming Language (OOP).
 </p>
 
 ### Coffee Machine Program Requirements: ###
+-------------------------------------------
 #### 1. Prompt user by asking “ What would you like? (espresso/latte/cappuccino): ” ####
 - Check the user’s input to decide what to do next.
 - The prompt should show every time action has completed, e.g. once the drink is dispensed. The prompt should show again to serve the next customer.
@@ -57,7 +59,8 @@ latte was their choice of drink.
 
 
 
-### Classes, Attributes & Methods ###
+### Classes, Attributes & Methods: ###
+_____________________________________
 #### MenuItem Class ####
 Attributes:
 - name
