@@ -3,7 +3,7 @@
 Programmed a coffee machine:
 
 <p align="center">
-  <img src="https://github.com/w-diana/100_days_Python_Challenge/blob/main/Day_15%20-%20Coffe%20Machine%20(Intermediate%20level)/picture.jpeg" width="300">
+  <img src="https://github.com/w-diana/100_days_Python_Challenge/blob/main/Day_15%20-%20Coffee%20Machine%20(Intermediate%20level)/picture.jpeg" width="300">
 </p>
 
 ### Coffee Machine Program Requirements: ###
