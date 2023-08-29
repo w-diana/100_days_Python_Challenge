@@ -2,7 +2,7 @@
 # The Hirst Painting
 ### Overview: ###
 _________________
-Recreated Damien Hirst's Spot Paintings that goes for $30,000+ by writing a code that:
+Recreated Damien Hirst's Spot Paintings that goes for $30,000+ by using the Turtle Python package and writing a code that:
 - extracts rgb color tuples from an image
 - generate random 10x10 color dots spaced evenly
 
