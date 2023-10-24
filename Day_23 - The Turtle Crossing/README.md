@@ -1,7 +1,7 @@
 # The Turtle Crossing Game
 ### Overview: ###
 _________________
-I created the Turtle Crossing game usine Object Oriented Programming (OOP).
+I created the Turtle Crossing game using Object Oriented Programming (OOP).
 
 How the Game works:
 1. A turtle moves forwards when you press the "Up" key. It can only move forwards, not back, left or right.
