@@ -1,7 +1,7 @@
 # The Snake Game (Update)
 ### Overview: ###
 _________________
-I updaed "The Snake Game" made in "Day_20 & 21" file. This new update keeps tracks of the pllayers high score. This was done by creating a text file to store the high score there, and using Pyhon's Read and Write built-in function to update the text file. This way, even if the game is closed and reopened, the highest score obtained woud always remain.
+I updaed "The Snake Game" made in "Day_20 & 21" file. This new update keeps track of the pllayers high score. This was done by creating a text file to store the high score there, and using Pyhon's Read and Write built-in function to update the text file. This way, even if the game is closed and reopened, the highest score obtained woud always remain.
 
 Screenshot of the game's GUI:
 <p align="center">
