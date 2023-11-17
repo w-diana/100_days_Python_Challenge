@@ -1,7 +1,7 @@
 # Password Manager
 ### Overview: ###
 _________________
-This is a Password Manager that helps creates passwords and stores the passwords in a data.txt file on your system. This allows you to have secure passwords and lets you check what those passwords are. 
+This is a Password Manager that helps create passwords and stores the passwords in a data.txt file on your system. This allows you to have secure passwords and lets you check what those passwords are. 
 <p align="center">
   <img src="https://github.com/w-diana/100_days_Python_Challenge/blob/main/Day_29%20-%20Password%20Manager/screenshot_1.jpg" width="1000">
 </p>
@@ -15,7 +15,7 @@ _________________________________________
 </p>
 
 - If you generate a passowrd, it saves it to your clipboard automatically so that it could be pasted easily.
-- The GUI is made to be interactive with the user e.g. it highlights the entry box the user is inputting information in.
+- The GUI is made to be interactive with the user e.g. it highlights the entry box that the user is currently inputting information in.
 
 
 
