@@ -1,7 +1,7 @@
 # Pomodora App
 ### Overview: ###
 _________________
-The Pomodora Technique effectively utilises the way that our braian works to take short breaks often and to work for 25mins at a time which helps us with information retention and keeping up the motivation. 
+The Pomodora Technique effectively utilises the way that our braian works to take short breaks often and to work for 25mins at a time, which helps us with information retention and keeping up the motivation. 
 <p align="center">
   <img src="https://github.com/w-diana/100_days_Python_Challenge/blob/main/Day_28%20-%20Pomodoro/image_1.jpeg" width="500">
 </p>
